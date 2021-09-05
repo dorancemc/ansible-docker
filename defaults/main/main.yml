@@ -1,0 +1,8 @@
+---
+# defaults file for ansible-docker
+
+docker_prepackages: 
+  - apt-transport-https
+  - ca-certificates
+  - curl
+  - gnupg
